@@ -1,3 +1,3 @@
 # my-worlddomination-website
 
-Henlo Hooman
+Henlo Homan, this Project is just for study goals !
